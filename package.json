@@ -18,7 +18,7 @@
         "chartist-plugin-tooltips": "0.0.17",
         "laravel-nova": "^1.0.4",
         "numeral": "^2.0.6",
-        "vue": "^2.5.0",
+        "vue": "^3.5.12",
         "lodash": "^4.17.0"
     }
 }
